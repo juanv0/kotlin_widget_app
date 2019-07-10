@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="generar_widget">Generar Widget</string>
+    <string-array name="tipoDocumento">
+        <item>CC</item>
+        <item>Pasaporte</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="widgetLabelT">MelaPela</string>
+    <string name="add_widget">Add widget</string>
+</resources>
